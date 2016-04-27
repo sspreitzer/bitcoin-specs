@@ -1,4 +1,5 @@
-# bitcoin for Fedora / CentOS / Red Hat Enterprise Linux
+# bitcoin (core)
+for Fedora / CentOS / Red Hat Enterprise Linux
 
 ## WARNING
 
